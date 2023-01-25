@@ -1,5 +1,25 @@
 # Star Wars Game
 
+Un simple videojuego 2D de scroll lateral donde tienes que sobrevivir sin chocarte con los obstaculos.
+
+# Historia
+
+Misión: Persecucion en la trinchera.</br>
+Nombre del Piloto: Jek Tono Porkins.</br>
+Alias: Piggy.</br>
+Escuadron: Rojo.</br>
+Con el fin de vencer al temible Imperio Galactico, tienes que adentrarte en la trinchera de la estrella de la muerte para poder destruirla. Pero el Imperio Galactico no lo pone facil y tendras que superar infinidad de obstaculos. Que la fuerza te acompañe.
+
+# Screenshots
+
+<div>
+<img width='33%' src='https://github.com/TheLordRalph/StarWarsGame/blob/master/assets/screenshots/Screenshot_1.png'>
+<img width='33%' src='https://github.com/TheLordRalph/StarWarsGame/blob/master/assets/screenshots/Screenshot_2.png'>
+<img width='33%' src='https://github.com/TheLordRalph/StarWarsGame/blob/master/assets/screenshots/Screenshot_3.png'>
+</div>
+  
+## Technology
+
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
 
 This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
