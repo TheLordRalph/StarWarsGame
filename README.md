@@ -13,9 +13,9 @@ Con el fin de vencer al temible Imperio Galactico, tienes que adentrarte en la t
 # Screenshots
 
 <div>
-<img width='33%' src='https://github.com/TheLordRalph/StarWarsGame/blob/master/assets/screenshots/Screenshot_1.png'>
-<img width='33%' src='https://github.com/TheLordRalph/StarWarsGame/blob/master/assets/screenshots/Screenshot_2.png'>
-<img width='33%' src='https://github.com/TheLordRalph/StarWarsGame/blob/master/assets/screenshots/Screenshot_3.png'>
+<img width='45%' src='https://github.com/TheLordRalph/StarWarsGame/blob/master/assets/screenshots/Screenshot_1.png'>
+<img width='45%' src='https://github.com/TheLordRalph/StarWarsGame/blob/master/assets/screenshots/Screenshot_2.png'>
+<img width='45%' src='https://github.com/TheLordRalph/StarWarsGame/blob/master/assets/screenshots/Screenshot_3.png'>
 </div>
   
 ## Technology
